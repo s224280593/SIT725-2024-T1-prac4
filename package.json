@@ -1,5 +1,5 @@
 {
-  "name": "sit725-2024-t1-prac2",
+  "name": "sit725-2024-t1-prac4",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "monodb": "^1.5.1"
   },
   "description": ""
 }
